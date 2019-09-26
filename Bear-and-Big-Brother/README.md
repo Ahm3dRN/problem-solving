@@ -1,4 +1,4 @@
-#Bear and Big Brother
+# Bear and Big Brother
 	time limit per test: 1 second
 	memory limit per test: 256 megabytes
 	inputstandard: input
@@ -13,34 +13,34 @@ Limak eats a lot and his weight is tripled after every year, while Bob's weight 
 
 After how many full years will Limak become strictly larger (strictly heavier) than Bob?
 
-##Input
+## Input
 
 The only line of the input contains two integers a and b (1 ≤ a ≤ b ≤ 10) — the weight of Limak and the weight of Bob respectively.
 
-##Output
+## Output
 
 Print one integer, denoting the integer number of years after which Limak will become strictly larger than Bob.
 If Anton and Danik won the same number of games, print "Friendship" (without quotes).
 
 
-##Examples
+## Examples
 
-###input
+### input
 	4 7
-###output
+### output
 	2
 
 
-###input
+### input
 	4 9
 
-###output
+### output
 	3
 
 
-###input
+### input
 	1 1
-###output
+### output
 	1
 
 ## Note
