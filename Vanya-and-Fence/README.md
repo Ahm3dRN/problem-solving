@@ -3,7 +3,9 @@
     memory limit per test: 256 megabytes
     inputstandard: input
     outputstandard: output
-    [link on codeforces](http://codeforces.com/contest/677/problem/A)
+ 
+ 
+[link on codeforces](http://codeforces.com/contest/677/problem/A)
 
 Vanya and his friends are walking along the fence of height h and they do not want the guard to notice them. In order to achieve this the height of each of the friends should not exceed h. If the height of some person is greater than h he can bend down and then he surely won't be noticed by the guard. The height of the i-th person is equal to ai.
 
@@ -19,24 +21,24 @@ Print a single integer — the minimum possible valid width of the road.
 
 
 
-##Examples
-###input
+## Examples
+### input
 	3 7
 	4 5 14
-###output
+### output
 	4
-###input
+### input
 	6 1
 	1 1 1 1 1 1
-###output
+### output
 	6
-###input
+### input
 	6 5
 	7 6 8 9 10 5
-###output
+### output
 	11
 
-##Note
+## Note
 
 In the first sample, only person number 3 must bend down, so the required width is equal to 1 + 1 + 2 = 4.
 
